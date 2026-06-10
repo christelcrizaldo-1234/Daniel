@@ -7,6 +7,8 @@ void setup() {
     Serial.println("RAVE");
     Serial.println("CJ baliw");
     Serial.println("DRAVE");
+    Serial.println("Newwww");
+
 
 void loop() {
 
